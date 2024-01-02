@@ -95,8 +95,6 @@ Referensi tutorial
 LINK YOUTUBE : 
 
 
-
-
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 LINK YOUTUBE : 
 
@@ -263,7 +261,7 @@ LINK YOUTUBE : https://youtu.be/h1qKieZDH7E
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 ini merupakan link video bagaimana saya membangun github pages
-LINK YOUTUBE : 
+LINK github : https://github.com/Irsyadadfiansha
 
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
