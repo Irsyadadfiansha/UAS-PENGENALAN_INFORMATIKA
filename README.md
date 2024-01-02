@@ -92,7 +92,7 @@ Referensi tutorial
 
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
-LINK YOUTUBE : 
+LINK YOUTUBE : https://youtu.be/eEQ8qMFFC6k
 
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
@@ -166,11 +166,11 @@ LINK YOUTUBE :
 
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐\
-LINK YOUTUBE : 
+LINK YOUTUBE : https://youtu.be/w6-VRL4p1sU
 
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
-LINK YOUTUBE : 
+LINK YOUTUBE : https://youtu.be/fQthuGLY4VA
 
 
 
@@ -193,7 +193,7 @@ LINK YOUTUBE : https://irsyadadfiansha9.wordpress.com/2024/01/01/protokol-komuni
 
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
-LINK YOUTUBE : 
+LINK YOUTUBE : https://youtu.be/qEwjhrAET3o
 
 
 
