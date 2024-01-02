@@ -47,13 +47,13 @@ LINK YOUTUBE : https://youtu.be/UilXpGbfIrc
 
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
-LINK YOUTUBE : 
+LINK YOUTUBE : https://youtu.be/Vc5jm7kNNvc
 LINK GITHUB :https://github.com/Irsyadadfiansha/UTS-PENGENALAN-INFORMATIKA_Interview_jobnew/tree/main
 
 
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
-LINK YOUTUBE : 
+LINK YOUTUBE : https://youtu.be/k5xbf7vb0IE
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
 
@@ -65,7 +65,7 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
-LINK YOUTUBE : 
+LINK YOUTUBE : https://youtu.be/HdjAHakTDAQ
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
@@ -82,7 +82,7 @@ Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_doma
 
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
-LINK YOUTUBE :
+LINK YOUTUBE :https://youtu.be/U6LLQ-a8eqQ
 
 Referensi tutorial 
 - Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
@@ -116,8 +116,7 @@ LINK YOUTUBE :
 
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
-LINK YOUTUBE : 
-
+LINK YOUTUBE : https://youtu.be/b291xLlEcgc
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
@@ -179,7 +178,7 @@ LINK YOUTUBE :
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 LINK YOUTUBE : https://youtu.be/11e141iDVPI
-PROFIL HUGGINGFACE
+
 
 
 
@@ -212,7 +211,7 @@ LINK WORDPRESS : https://irsyadadfiansha9.wordpress.com/2023/12/30/apa-itu-jurna
 
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
-LINK YOUTUBE : 
+LINK YOUTUBE : https://youtu.be/hJrr7NQUF1w
 
 
 
@@ -260,10 +259,6 @@ LINK YOUTUBE : https://youtu.be/JFu2Oh-WpxU
 Ini adalah video pembuatan akun linkedin
 LINK YOUTUBE : https://youtu.be/h1qKieZDH7E
 
-berikut adalah link dari profil linkedin yang sudah saya buat
-
-
-
 
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
@@ -272,9 +267,12 @@ LINK YOUTUBE :
 
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
-Saya mengikuti online course terkait IT, yang dilaksanakan pada hari minggu tanggal 17 desember 2023 yang diadakan oleh Google Developer Student Club UINSGD.
+Saya mengikuti event atau course terkait IT dengan materi kapita selekta- generative AI in Natural Language Processing, yang dilaksanakan pada hari sabtu pukul:09.00WIB tanggal 16 desember 2023 yang dimateri oleh Muhammad Nizami ,S.T,M.T.
+![referensi1](https://github.com/Irsyadadfiansha/UAS-PENGENALAN_INFORMATIKA/blob/main/imageUas/81af7175-a39f-4c8e-bea2-20c144d08863.jpg)
+![referrensi2](https://github.com/Irsyadadfiansha/UAS-PENGENALAN_INFORMATIKA/blob/main/imageUas/b4a764ad-d9b9-4201-86cf-2f499599ac6a.jpg)
 
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
-disini saya membaca buku yang bertemakan self-improvment
-LINK WORDPRESS : 
+disini saya membaca buku yang bertemakan teknis teknis java yang berisikan berbagai cara penulisannya,identifier,keyword,acces modifier, operator, percabangan GUI dan lain lainnya yang berhubungan dengan sistem cara kerja bahasa pemograman java
+![referensi3](https://github.com/Irsyadadfiansha/UAS-PENGENALAN_INFORMATIKA/blob/main/imageUas/53b6819e-854f-4e03-9c20-16189ffd3967.jpg)
+![referensi4](https://github.com/Irsyadadfiansha/UAS-PENGENALAN_INFORMATIKA/blob/main/imageUas/b63df140-7e2c-4ccc-9290-29ed655854aa.jpg)
