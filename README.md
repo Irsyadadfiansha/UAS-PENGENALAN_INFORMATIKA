@@ -59,7 +59,7 @@ Referensi tambahan [1](https://db-engines.com/en/ranking)
 
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
-LINK YOUTUBE : 
+LINK YOUTUBE : vidio tidak bisa di upload karena ada pembatasan harian
 Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
@@ -77,7 +77,7 @@ Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.ht
 
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-LINK YOUTUBE : 
+LINK YOUTUBE : vidio tidak bisa di upload karena ada pembatasan harian
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
 
@@ -96,20 +96,20 @@ LINK YOUTUBE : https://youtu.be/eEQ8qMFFC6k
 
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
-LINK YOUTUBE : 
+LINK YOUTUBE : vidio tidak bisa di upload karena ada pembatasan harian
 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-LINK YOUTUBE : 
+LINK YOUTUBE : https://youtu.be/dfzGUPL2m5c
 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
-LINK YOUTUBE : 
+LINK YOUTUBE : vidio tidak bisa di upload karena ada pembatasan harian
 
 
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
-LINK YOUTUBE : 
+LINK YOUTUBE : vidio tidak bisa di upload karena ada pembatasan harian
 
 
 
@@ -118,7 +118,7 @@ LINK YOUTUBE : https://youtu.be/b291xLlEcgc
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
-LINK YOUTUBE : 
+LINK YOUTUBE : vidio tidak bisa di upload karena ada pembatasan harian
 
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
@@ -130,13 +130,13 @@ LINK WORDPRESS : http://irsyadadfiansha9.wordpress.com/
 
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
-LINK YOUTUBE : 
+LINK YOUTUBE : vidio tidak bisa di upload karena ada pembatasan harian
 
 
 
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
-LINK YOUTUBE : 
+LINK YOUTUBE : vidio tidak bisa di upload karena ada pembatasan harian
 
 
 
@@ -161,7 +161,7 @@ LINK YOUTUBE : https://youtu.be/u4U5Ys211_M
 
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
-LINK YOUTUBE : 
+LINK YOUTUBE : vidio tidak bisa di upload karena ada pembatasan harian
 
 
 
@@ -198,7 +198,7 @@ LINK YOUTUBE : https://youtu.be/qEwjhrAET3o
 
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
-LINK YOUTUBE : 
+LINK YOUTUBE : vidio tidak bisa di upload karena ada pembatasan harian
 
 
 
