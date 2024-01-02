@@ -43,12 +43,12 @@ LINK YOUTUBE : https://youtu.be/SbBtO6lBddg
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 LINK YOUTUBE : https://youtu.be/UilXpGbfIrc
-PROFIL HACKERRANK
-![Screenshot (23)](https://github.com/dzikriii24/UAS-pengenalanInformatika/assets/144420544/c297750f-755a-4ce4-9861-098ab12f7265)
+
 
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 LINK YOUTUBE : 
+LINK GITHUB :https://github.com/Irsyadadfiansha/UTS-PENGENALAN-INFORMATIKA_Interview_jobnew/tree/main
 
 
 
@@ -94,7 +94,7 @@ Referensi tutorial
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 LINK YOUTUBE : 
 
-Referensi []
+
 
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
@@ -178,7 +178,7 @@ LINK YOUTUBE :
 
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
-LINK YOUTUBE : 
+LINK YOUTUBE : https://youtu.be/11e141iDVPI
 PROFIL HUGGINGFACE
 
 
@@ -186,7 +186,7 @@ PROFIL HUGGINGFACE
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 LINK YOUTUBE : https://youtu.be/F1CCEiwhGMA
-PROFIL KAGGLE
+
 
 
 
