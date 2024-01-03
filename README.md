@@ -147,7 +147,7 @@ LINK YOUTUBE : https://youtu.be/8Bq_IU2xZvs
 
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
-LINK YOUTUBE : vidio tidak bisa di upload karena ada pembatasan harian
+LINK YOUTUBE : https://youtu.be/bek2Qo-CYQk
 
 
 
