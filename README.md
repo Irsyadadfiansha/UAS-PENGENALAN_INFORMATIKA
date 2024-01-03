@@ -141,7 +141,7 @@ LINK WORDPRESS : http://irsyadadfiansha9.wordpress.com/
 
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
-LINK YOUTUBE : vidio tidak bisa di upload karena ada pembatasan harian
+LINK YOUTUBE : https://youtu.be/8Bq_IU2xZvs
 
 
 
