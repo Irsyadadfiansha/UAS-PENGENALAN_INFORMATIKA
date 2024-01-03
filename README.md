@@ -119,7 +119,7 @@ LINK YOUTUBE : vidio tidak bisa di upload karena ada pembatasan harian
 
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
-LINK YOUTUBE : vidio tidak bisa di upload karena ada pembatasan harian
+LINK YOUTUBE : https://youtu.be/LkZtLreC6Hw
 
 
 
