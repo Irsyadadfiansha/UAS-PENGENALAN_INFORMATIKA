@@ -114,7 +114,7 @@ LINK YOUTUBE : https://youtu.be/dfzGUPL2m5c
 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
-LINK YOUTUBE : vidio tidak bisa di upload karena ada pembatasan harian
+LINK YOUTUBE : https://youtu.be/dfzGUPL2m5c
 
 
 
