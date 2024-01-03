@@ -106,7 +106,7 @@ LINK YOUTUBE : https://youtu.be/eEQ8qMFFC6k
 
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
-LINK YOUTUBE : vidio tidak bisa di upload karena ada pembatasan harian
+LINK YOUTUBE : https://youtu.be/6KP0HnT_wjY
 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
