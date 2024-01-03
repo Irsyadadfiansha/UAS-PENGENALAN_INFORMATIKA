@@ -3,6 +3,7 @@
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 berikut link wordpress dari blog computational thinking
+
 LINK WORDPRESS : https://irsyadadfiansha9.wordpress.com/2023/11/22/hello-world/
 
 
@@ -17,6 +18,7 @@ LINK YOUTUBE : https://youtu.be/eOvoD20rnvk
 ## Mencoba Console Sistem Operasi
 ### Windows CMD [v] ⭐⭐⭐⭐
 LINK YOUTUBE : https://youtu.be/rpieqqXcX2A
+
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 
@@ -26,10 +28,12 @@ LINK YOUTUBE : https://youtu.be/dOA_8WptfHI
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 LINK YOUTUBE : https://youtu.be/b75uKklOv4E
+
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 LINK YOUTUBE : https://youtu.be/bu_J4bBVL2o
+
 Referensi [1](https://scratch.mit.edu/)
 
 
@@ -48,24 +52,28 @@ LINK YOUTUBE : https://youtu.be/UilXpGbfIrc
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 LINK YOUTUBE : https://youtu.be/Vc5jm7kNNvc
+
 LINK GITHUB :https://github.com/Irsyadadfiansha/UTS-PENGENALAN-INFORMATIKA_Interview_jobnew/tree/main
 
 
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 LINK YOUTUBE : https://youtu.be/k5xbf7vb0IE
+
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
 
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 LINK YOUTUBE : vidio tidak bisa di upload karena ada pembatasan harian
+
 Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 LINK YOUTUBE : https://youtu.be/HdjAHakTDAQ
+
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
@@ -73,11 +81,13 @@ LINK YOUTUBE : https://youtu.be/HdjAHakTDAQ
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 LINK YOUTUBE : https://youtu.be/aQUtI4f9KA8
+
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 LINK YOUTUBE : vidio tidak bisa di upload karena ada pembatasan harian
+
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
 
@@ -118,9 +128,10 @@ LINK YOUTUBE : https://youtu.be/b291xLlEcgc
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
-LINK YOUTUBE : vidio tidak bisa di upload karena ada pembatasan harian
 
-Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
+LINK YOUTUBE : https://youtu.be/lSdNoDcaG1o
+
+-Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
 
 
@@ -255,22 +266,26 @@ LINK YOUTUBE : https://youtu.be/JFu2Oh-WpxU
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 Ini adalah video pembuatan akun linkedin
+
 LINK YOUTUBE : https://youtu.be/h1qKieZDH7E
 
 
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 ini merupakan link video bagaimana saya membangun github pages
+
 LINK github : https://github.com/Irsyadadfiansha
 
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 Saya mengikuti event atau course terkait IT dengan materi kapita selekta- generative AI in Natural Language Processing, yang dilaksanakan pada hari sabtu pukul:09.00WIB tanggal 16 desember 2023 yang dimateri oleh Muhammad Nizami ,S.T,M.T.
+
 ![referensi1](https://github.com/Irsyadadfiansha/UAS-PENGENALAN_INFORMATIKA/blob/main/imageUas/81af7175-a39f-4c8e-bea2-20c144d08863.jpg)
 ![referrensi2](https://github.com/Irsyadadfiansha/UAS-PENGENALAN_INFORMATIKA/blob/main/imageUas/b4a764ad-d9b9-4201-86cf-2f499599ac6a.jpg)
 
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 disini saya membaca buku yang bertemakan teknis teknis java yang berisikan berbagai cara penulisannya,identifier,keyword,acces modifier, operator, percabangan GUI dan lain lainnya yang berhubungan dengan sistem cara kerja bahasa pemograman java
+
 ![referensi3](https://github.com/Irsyadadfiansha/UAS-PENGENALAN_INFORMATIKA/blob/main/imageUas/53b6819e-854f-4e03-9c20-16189ffd3967.jpg)
 ![referensi4](https://github.com/Irsyadadfiansha/UAS-PENGENALAN_INFORMATIKA/blob/main/imageUas/b63df140-7e2c-4ccc-9290-29ed655854aa.jpg)
