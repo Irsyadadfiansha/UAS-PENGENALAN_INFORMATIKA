@@ -172,7 +172,7 @@ LINK YOUTUBE : https://youtu.be/u4U5Ys211_M
 
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
-LINK YOUTUBE : vidio tidak bisa di upload karena ada pembatasan harian
+LINK YOUTUBE : https://youtu.be/11e141iDVPI
 
 
 
@@ -209,8 +209,7 @@ LINK YOUTUBE : https://youtu.be/qEwjhrAET3o
 
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
-LINK YOUTUBE : vidio tidak bisa di upload karena ada pembatasan harian
-
+LINK YOUTUBE : https://youtu.be/OjpvTpc3OMQ
 
 
 
